@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Olá, Eu sou Marcus Vinicius 👋
 
 programming languages ​​and tools that I have worked with, studied, and used in projects
@@ -20,4 +17,4 @@ programming languages ​​and tools that I have worked with, studied, and used
 - Git
 - GitHub
 - Docker
--->
+
