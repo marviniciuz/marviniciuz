@@ -2,7 +2,7 @@
 
 programming languages ​​and tools that I have worked with, studied, and used in projects
 
-### Frontend
+
 - Html
 - CSS
 - JavaScript
