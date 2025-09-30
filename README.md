@@ -15,6 +15,7 @@ programming languages ​​and tools that I have worked with, studied, and used
 - MySQL
 - PostgreSQL
 - Git
+- GitLab
 - GitHub
 - Docker
 
