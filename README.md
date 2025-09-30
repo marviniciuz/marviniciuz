@@ -1,16 +1,23 @@
 ## Hi there 👋
 
 <!--
-**marviniciuz/marviniciuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, Eu sou Marcus Vinicius 👋
 
-Here are some ideas to get you started:
+programming languages ​​and tools that I have worked with, studied, and used in projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Frontend
+- Html
+- CSS
+- JavaScript
+- React
+- Angular
+- Htmx
+- Python
+- Django
+- Django Rest Framework
+- MySQL
+- PostgreSQL
+- Git
+- GitHub
+- Docker
 -->
