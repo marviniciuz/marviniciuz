@@ -12,8 +12,10 @@ programming languages ​​and tools that I have worked with, studied, and used
 - Python
 - Django
 - Django Rest Framework
+- Flask
 - MySQL
 - PostgreSQL
+- C
 - Git
 - GitLab
 - GitHub
