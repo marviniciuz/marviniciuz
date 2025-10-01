@@ -5,7 +5,7 @@ programming languages ​​and tools that I have worked with, studied, and used
 
 - Html
 - CSS
-- JavaScript
+- Javascript
 - React
 - Angular
 - Htmx
